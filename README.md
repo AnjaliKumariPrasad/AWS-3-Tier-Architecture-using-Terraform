@@ -43,9 +43,8 @@ Amazon RDS PostgreSQL
 
 ## Architecture Diagram
 
-Insert your architecture image here:
 
-```md
+```
 ![Architecture](images/architecture.png)
 ```
 
@@ -54,44 +53,44 @@ Insert your architecture image here:
 
 ### Application Load Balancer
 
-```md
+```
 ![Internal ALB](images/alb.png)
 ```
 
 ### Auto Scaling Groups
 
-```md
+```
 ![Frontend ASG](images/asg.png)
 
 ```
 
 ### Amazon RDS
 
-```md
+```
 ![RDS](images/rds.png)
 ```
 
 ### Amazon ECR
 
-```md
+```
 ![ECR](images/ecr.png)
 ```
 
 ### CloudWatch Monitoring
 
-```md
+```
 ![CloudWatch](images/cloudwatch.png)
 ```
 
 ### CloudTrail
 
-```md
+```
 ![CloudTrail](images/cloudtrail.png)
 ```
 
 ### GitHub Actions CI/CD
 
-```md
+```
 ![GitHub Actions](images/github-actions.png)
 ```
 
