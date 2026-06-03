@@ -89,7 +89,7 @@ Amazon RDS PostgreSQL
 ### GitHub Actions CI/CD
 
 
-![GitHub Actions](images/github-actions.png)
+![GitHub Actions](images/github-action.png)
 
 
 ## AWS Services Used
