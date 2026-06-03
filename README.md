@@ -44,55 +44,53 @@ Amazon RDS PostgreSQL
 ## Architecture Diagram
 
 
-```
 ![Architecture](images/architecture.png)
-```
+
 
 ## Screenshots
 
 
 ### Application Load Balancer
 
-```
+
 ![Internal ALB](images/alb.png)
-```
+
 
 ### Auto Scaling Groups
 
-```
+
 ![Frontend ASG](images/asg.png)
 
-```
+
 
 ### Amazon RDS
 
-```
+
 ![RDS](images/rds.png)
-```
+
 
 ### Amazon ECR
 
-```
+
 ![ECR](images/ecr.png)
-```
+
 
 ### CloudWatch Monitoring
 
-```
+
 ![CloudWatch](images/cloudwatch.png)
-```
+
 
 ### CloudTrail
 
-```
+
 ![CloudTrail](images/cloudtrail.png)
-```
 
 ### GitHub Actions CI/CD
 
-```
+
 ![GitHub Actions](images/github-actions.png)
-```
+
 
 ## AWS Services Used
 
